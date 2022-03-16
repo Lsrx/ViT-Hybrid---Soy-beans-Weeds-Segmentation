@@ -26,6 +26,10 @@
 
 3) Os resultados vão para a pasta `output_semseg`.
 
+OBS: Para obter os pesos do último treinamento realizar o download da seguinte pasta do drive, e colocar em uma pasta com nome "weights": 
+
+https://drive.google.com/drive/folders/10moyrAqmw_dVCGHfwS9irqgHXngjbTmR?usp=sharing
+
 
 ### Agradecimentos
 
