@@ -1,4 +1,4 @@
-# ViT-Hybrid---Soy-beans-Weeds-Segmentation
+# ViT-Hybrid Soy Beans Weeds Segmentation
 
 ## Segmentação de Ervas no Cultivo da Soja Utilizando o ViT
 
